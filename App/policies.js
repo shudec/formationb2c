@@ -10,11 +10,11 @@ const b2cPolicies = {
     },
     authorities: {
         signUpSignIn: {
-            authority: "https://fabrikamb2c.b2clogin.com/fabrikamb2c.onmicrosoft.com/B2C_1_susi_reset_v2",
+            authority: "https://stephanehudecssg.b2clogin.com/stephanehudecssg.onmicrosoft.com/B2C_1_signupsigninshc",
         },
         editProfile: {
-            authority: "https://fabrikamb2c.b2clogin.com/fabrikamb2c.onmicrosoft.com/B2C_1_edit_profile_v2"
+            authority: "https://stephanehudecssg.b2clogin.com/stephanehudecssg.onmicrosoft.com/B2C_1_signupsigninshc"
         }
     },
-    authorityDomain: "fabrikamb2c.b2clogin.com"
+    authorityDomain: "https://stephanehudecssg.b2clogin.com"
 }
